@@ -27,4 +27,4 @@ def create(request):
         'form': form,
         'error': error
     }
-    return render(request, 'main/create.html',context)
+    return render(request, 'main/create.html', context)

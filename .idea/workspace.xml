@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6548d1f4-312c-4a2c-8ee8-f1f21d2ef176" name="Changes" comment="" />
+    <list default="true" id="6548d1f4-312c-4a2c-8ee8-f1f21d2ef176" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5e703633-31ff-4d9d-9f7c-ae54a2ad6f2b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taskmanager/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/taskmanager/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taskmanager/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/taskmanager/main/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taskmanager/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/taskmanager/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taskmanager/main/templates/main/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/taskmanager/main/templates/main/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taskmanager/main/templates/main/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/taskmanager/main/templates/main/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taskmanager/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/taskmanager/main/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,23 +28,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26VIXG96XKpvT7iMtVyWEDXPUhd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="sqlite" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Beer Spirit/PycharmProjects/djangoProject&quot;
+  }
+}</component>
   <component name="RunManager">
     <configuration name="djangoProject" type="Python.DjangoServer" factoryName="Django server">
       <module name="djangoProject" />
@@ -79,10 +93,57 @@
       <workItem from="1648654769974" duration="539000" />
       <workItem from="1648667352010" duration="677000" />
       <workItem from="1648742653761" duration="3666000" />
+      <workItem from="1648750356765" duration="498000" />
+      <workItem from="1648907834417" duration="59000" />
+      <workItem from="1649014945520" duration="264000" />
+      <workItem from="1649072763751" duration="9000" />
+      <workItem from="1649072836857" duration="1279000" />
+      <workItem from="1649138191650" duration="13000" />
+      <workItem from="1649138227909" duration="18000" />
+      <workItem from="1649139662418" duration="8511000" />
+      <workItem from="1649319341987" duration="2202000" />
+      <workItem from="1649348640498" duration="8000" />
+      <workItem from="1649349456265" duration="11000" />
+      <workItem from="1649383992215" duration="11000" />
+      <workItem from="1649411237907" duration="10000" />
+      <workItem from="1649582516530" duration="3359000" />
+      <workItem from="1649747179884" duration="614000" />
+      <workItem from="1649775388042" duration="5000" />
+      <workItem from="1649923599496" duration="69000" />
+      <workItem from="1649923701506" duration="79000" />
+      <workItem from="1649923840846" duration="151000" />
+      <workItem from="1649925100615" duration="25000" />
+      <workItem from="1649991435296" duration="617000" />
+      <workItem from="1650137415351" duration="66000" />
+      <workItem from="1650879720498" duration="59000" />
+      <workItem from="1650879803741" duration="56000" />
+      <workItem from="1650879991223" duration="1293000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
